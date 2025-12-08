@@ -27,7 +27,7 @@ feature_row:
     url: "about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/process/post_fire.jpg
+  - image_path: assets/images/process/cutting_slate_front_page.png
     title: "The Process"
     excerpt: "The pieces take time and careful work, from shaping the stone to enamel firing and finishing. You can read about the full process here."
     url: "process"
