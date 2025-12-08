@@ -6,8 +6,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: assets/images/front_page_banner.png
 excerpt: "North Wales Slate & Pebble Jewellery."
 intro: 
   - excerpt: 'Welcome to Pebblau Mon. I make jewellery using pebbles from North Wales beaches and slate from old roofs. Each piece is shaped, engraved with a fibre laser, and coloured by hand, creating something unique from natural materials.'
