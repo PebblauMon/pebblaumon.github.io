@@ -12,7 +12,7 @@ intro:
   - excerpt: 'Welcome to Pebblau Mon. I make jewellery using pebbles from North Wales beaches and slate from old roofs. Each piece is shaped, engraved with a fibre laser, and coloured by hand, creating something unique from natural materials.'
 feature_row:
   - image_path: assets/images/designs/Iron_Age_Cat.png
-    image_caption: "Image courtesy of [Amgueddfa Cymru]([https://unsplash.com/](https://museum.wales/collections/online/object/92350620-6033-3a2c-b424-f546991e4094/Iron-Age-copper-alloy-bowl/?field0=string&value0=coast&field1=with_images&value1=on&page=141&index=1681))"
+    image_caption: "Image courtesy of [Amgueddfa Cymru](https://museum.wales/collections/online/object/92350620-6033-3a2c-b424-f546991e4094/Iron-Age-copper-alloy-bowl/?field0=string&value0=coast&field1=with_images&value1=on&page=141&index=1681)"
     alt: "Historical Designs"
     title: "Designs"
     excerpt: "My designs are inspired by Welsh symbols and archaeological finds, including Roman and early medieval tiles. You can see more of these designs here."
