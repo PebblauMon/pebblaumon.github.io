@@ -12,22 +12,22 @@ excerpt: "North Wales Slate & Pebble Jewellery."
 intro: 
   - excerpt: 'Welcome to Pebblau Mon. I make jewellery using pebbles from North Wales beaches and slate from old roofs. Each piece is shaped, engraved with a fibre laser, and coloured by hand, creating something unique from natural materials.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: assets/images/designs/Iron_Age_Cat.png
+    image_caption: "Image courtesy of [Amgueddfa Cymru]([https://unsplash.com/](https://museum.wales/collections/online/object/92350620-6033-3a2c-b424-f546991e4094/Iron-Age-copper-alloy-bowl/?field0=string&value0=coast&field1=with_images&value1=on&page=141&index=1681))"
     alt: "Historical Designs"
     title: "Designs"
     excerpt: "My designs are inspired by Welsh symbols and archaeological finds, including Roman and early medieval tiles. You can see more of these designs here."
     url: "designs"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: assets/images/selfie.jpg
     alt: "Megan Round"
     title: "About Me"
     excerpt: "I enjoy exploring materials, trying new techniques, and making things with my hands. You can find out more about me on the About Me page."
     url: "about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: assets/images/process/post_fire.jpg
     title: "The Process"
     excerpt: "The pieces take time and careful work, from shaping the stone to enamel firing and finishing. You can read about the full process here."
     url: "process"
