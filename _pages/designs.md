@@ -1,6 +1,16 @@
 ---
 permalink: /designs/
 title: "Designs"
+
+feature_row1:
+  - image_path: assets/images/designs/copper_bowl.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
 ---
 The designs I create are inspired by Welsh symbols and archaeological finds, including Roman and early medieval tiles. I try to stay true to the originals, including the small quirks or slightly wonky shapes that give them character. I used reference pictures from the Amgueddfa Cymru — Museum Wales website to guide the designs.
 
@@ -9,3 +19,5 @@ I work with pebbles and slate, each piece chosen for its texture, shape, and col
 Below are some of my favourite designs and the stories behind them.
 
 You can see how each piece comes together and the materials I work with on the Process page.
+
+{% include feature_row id="feature_row1" type="left" %}
