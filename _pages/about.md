@@ -9,4 +9,11 @@ My inspiration comes from the landscape around me, as well as Welsh symbols and 
 
 I also enjoy finding and wearing handmade, local jewellery myself, so I know how much care and personality can go into a piece.
 
-If you’d like to get in touch, ask a question, or find out more about my work, please contact me at info@pebblaumon.co.uk or on my socials.
+## Contact
+If you’d like to get in touch, ask a question, or find out more about my work, please get in touch.
+
+**Email** - info@pebblaumon.co.uk
+**Instagram** - [@pebblau_mon](https://www.instagram.com/pebblau_mon/)
+**Facebook** - [Pebblau Môn](https://www.facebook.com/profile.php?id=61581762134927)
+**Mailing List** - [Subscribe Here](https://sendfox.com/pebblaumon)
+
