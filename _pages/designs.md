@@ -5,7 +5,6 @@ layout: splash
 
 feature_row1:
   - image_path: assets/images/design/copper_bowl.png
-    image_caption: "[Amgueddfa Cymru](https://www.youtube.com/)"
     alt: "Iron Age copper bowl"
     title: "Feline - Iron Age Copper Alloy Bowl"
     excerpt: 'This is a feline/cat design from a Iron Age copper bowl that was found at Cwm Beudy Mawr, Crib Goch. It is also knows as the 'Snowdon Bowl'.'
