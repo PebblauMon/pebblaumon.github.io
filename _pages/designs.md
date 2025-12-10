@@ -1,6 +1,7 @@
 ---
 permalink: /designs/
 title: "Designs"
+layout: splash
 
 feature_row1:
   - image_path: assets/images/designs/copper_bowl.jpg
