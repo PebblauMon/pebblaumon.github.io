@@ -18,4 +18,6 @@ I work with pebbles and slate, each piece chosen for its texture, shape, and col
 
 Below are some of my favourite designs and the stories behind them.
 
+---
+
 {% include feature_row id="feature_row1" type="left" %}
