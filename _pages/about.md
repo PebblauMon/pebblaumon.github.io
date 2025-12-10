@@ -12,8 +12,8 @@ I also enjoy finding and wearing handmade, local jewellery myself, so I know how
 ## Contact
 If you’d like to get in touch, ask a question, or find out more about my work, please get in touch.
 
-**Email** - info@pebblaumon.co.uk
-**Instagram** - [@pebblau_mon](https://www.instagram.com/pebblau_mon/)
-**Facebook** - [Pebblau Môn](https://www.facebook.com/profile.php?id=61581762134927)
-**Mailing List** - [Subscribe Here](https://sendfox.com/pebblaumon)
+**Email** - info@pebblaumon.co.uk <br>
+**Instagram** - [@pebblau_mon](https://www.instagram.com/pebblau_mon/) <br>
+**Facebook** - [Pebblau Môn](https://www.facebook.com/profile.php?id=61581762134927) <br>
+**Mailing List** - [Subscribe Here](https://sendfox.com/pebblaumon) <br>
 
